@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="bscs25017_Lab01/bscs25017_Lab01.vcxproj" />
+</Solution>
